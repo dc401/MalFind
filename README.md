@@ -9,12 +9,12 @@ Author: Dennis Chow
 dchow [AT] xtecsystems.com
 Date: 20131024
 
-echo *** Instructions: ***
-echo * Enter a path where you have the suspect malware related files *
-echo * Example: c:\malware\ OR "c:\malware samples\spaces in folder"
-echo * If VirusTotal has the known hashes already: You will receive a pop up to close or re-upload
-echo * Known bug: cmd.exe expansion for tokens may cause duplicates in VT upload
-echo *********************
+*** Instructions: ***
+* Enter a path where you have the suspect malware related files *
+* Example: c:\malware\ OR "c:\malware samples\spaces in folder"
+* If VirusTotal has the known hashes already: You will receive a pop up to close or re-upload
+* Known bug: cmd.exe expansion for tokens may cause duplicates in VT upload
+*********************
 
 To run: run malfind.bat from the same location as the support files.
 
